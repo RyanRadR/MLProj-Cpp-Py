@@ -1,6 +1,6 @@
-# VectorForge
+# mlproj-cpp-py
 
-VectorForge is a C++ and Python project intended to try large, modular, multi-file development using AI assistance.
+mlproj-cpp-py is a C++ and Python project intended to try large, modular, multi-file development using AI assistance.
 
 ## Goals
 - Build a codebase with modularity
